@@ -15,3 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 ## Check out the sample video
+![Expenseapp](https://github.com/ElangoSubramani/expense_tracker/assets/122277416/eb9a14eb-3973-48fb-be36-5428fd95c80b)
